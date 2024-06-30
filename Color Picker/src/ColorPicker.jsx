@@ -1,3 +1,5 @@
+// able to change the backGround color based on the color chosen
+
 import React, {useState} from 'react';
 
 function ColorPicker(){
